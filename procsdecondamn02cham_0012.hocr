@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./procsdecondamn02cham/procsdecondamn02cham_0012.png"; bbox 0 0 2054 3391; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 394 335 2009 2838">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 394 335 2009 2838">
+     <span class='ocr_line' id='line_1_1' title="bbox 394 335 2009 2838; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 394 335 2009 2838; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 619 2963 1450 3056">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 619 2963 1450 3056">
+     <span class='ocr_line' id='line_1_2' title="bbox 619 2963 1450 3003; baseline 0 -6"><span class='ocrx_word' id='word_1_2' title='bbox 619 2964 763 2997; x_wconf 74' lang='lat' dir='ltr'>PffiRRE</span> <span class='ocrx_word' id='word_1_3' title='bbox 790 2963 1048 2999; x_wconf 36' lang='lat' dir='ltr'>CAUCHONJ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1077 2963 1205 3003; x_wconf 66' lang='grc' dir='ltr'>Ενέᾳυε</span> <span class='ocrx_word' id='word_1_5' title='bbox 1232 2965 1271 2997; x_wconf 86' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 1299 2964 1450 2997; x_wconf 75' lang='lat' dir='ltr'>Beauvais</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 747 3022 1311 3056; baseline 0.002 -7"><span class='ocrx_word' id='word_1_7' title='bbox 747 3023 817 3050; x_wconf 78' lang='lat' dir='ltr'><em>Bihl.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 841 3023 912 3052; x_wconf 79' lang='lat' dir='ltr'><em>Nae..</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 935 3022 1090 3056; x_wconf 69' lang='lat' dir='ltr'><em>Coignii’res</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1112 3023 1180 3050; x_wconf 72' lang='grc' dir='ltr'>Ρ“8</span> <span class='ocrx_word' id='word_1_11' title='bbox 1198 3023 1249 3056; x_wconf 86' lang='lat' dir='ltr'><em>sol.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1270 3024 1311 3050; x_wconf 80' lang='lat'>24</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 466 3076 1588 3111">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 466 3076 1588 3111">
+     <span class='ocr_line' id='line_1_4' title="bbox 466 3076 1588 3111; baseline 0.001 -7"><span class='ocrx_word' id='word_1_13' title='bbox 466 3076 630 3111; x_wconf 76' lang='lat' dir='ltr'>(Tombeau</span> <span class='ocrx_word' id='word_1_14' title='bbox 653 3079 687 3105; x_wconf 78' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_15' title='bbox 711 3079 821 3106; x_wconf 69' lang='lat' dir='ltr'>marbre</span> <span class='ocrx_word' id='word_1_16' title='bbox 843 3081 1058 3107; x_wconf 79' lang='lat' dir='ltr'>anciennemem</span> <span class='ocrx_word' id='word_1_17' title='bbox 1079 3079 1148 3106; x_wconf 68' lang='lat' dir='ltr'>dans</span> <span class='ocrx_word' id='word_1_18' title='bbox 1170 3079 1195 3107; x_wconf 77' lang='lat' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_19' title='bbox 1216 3078 1389 3107; x_wconf 60' lang='lat' dir='ltr'>Cathkdrale</span> <span class='ocrx_word' id='word_1_20' title='bbox 1410 3080 1446 3108; x_wconf 84' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_21' title='bbox 1469 3079 1588 3111; x_wconf 78' lang='lat' dir='ltr'>Lisieux)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
